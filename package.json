@@ -1,5 +1,5 @@
 {
-  "name": "react-easy-swipe",
+  "name": "react-easy-swipe2",
   "version": "0.0.18",
   "description": "React easy swipe - Easy handler for common touch operations",
   "main": "./lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leandrowd/react-easy-swipe.git"
+    "url": "https://github.com/meatspincom/react-easy-swipe.git"
   },
   "bugs": {
     "url": "https://github.com/leandrowd/react-easy-swipe/issues"
